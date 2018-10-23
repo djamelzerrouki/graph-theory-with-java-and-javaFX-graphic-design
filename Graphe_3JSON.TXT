@@ -1,0 +1,15 @@
+Graphe = {
+   edges : {
+    Edge_0 : {Start:0,
+               END:1}
+    Edge_1 : {Start:1,
+               END:2}
+    Edge_2 : {Start:1,
+               END:3}
+    Edge_3 : {Start:2,
+               END:0}
+    Edge_4 : {Start:2,
+               END:3}
+
+}
+}

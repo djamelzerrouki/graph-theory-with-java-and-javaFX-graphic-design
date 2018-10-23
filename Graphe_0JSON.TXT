@@ -1,0 +1,12 @@
+Graphe =    edges : {
+    Edge_0 : {Start:1,
+               END:0}
+    Edge_1 : {Start:2,
+               END:1}
+    Edge_2 : {Start:3,
+               END:1}
+    Edge_3 : {Start:3,
+               END:2}
+
+}
+}
